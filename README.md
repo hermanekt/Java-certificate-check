@@ -5,7 +5,7 @@ In this repo is 2 version for java 7 and java 8.
 
 ## App for version 7
 ```
-wget 
+wget https://github.com/hermanekt/Java-certificate-check/raw/master/java7/SSLPoke.class
 ```
 ```
 java SSLPoke www.google.cz 443
@@ -14,7 +14,7 @@ HOST:java7 tomashermanek$ java SSLPoke www.google.cz 443
 **Successfully connected**
 ## App for version 8
 ```
-wget
+wget https://github.com/hermanekt/Java-certificate-check/raw/master/java8/SSLPoke.class
 ```
 ```
 java SSLPoke www.google.cz 443
