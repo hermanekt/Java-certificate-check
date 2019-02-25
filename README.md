@@ -21,7 +21,7 @@ java SSLPoke www.google.cz 443
 ```
 HOST:java8 tomashermanek$ **java SSLPoke www.google.cz 443**
 **Successfully connected**
-##You can define your truststore
+## You can define your truststore
 ```
 java -Djavax.net.ssl.trustStore=/etc/pki/truststore SSLPoke www.google.cz 443
 ```
