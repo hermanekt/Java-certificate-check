@@ -2,7 +2,9 @@
 This simple app test if certificate is correctly installed in keystore
 
 In this repo is 2 version for java 7 and java 8.
-
+```
+Usage: SSLPoke <host> <port>
+```
 ## App for version 7
 ```
 wget https://github.com/hermanekt/Java-certificate-check/raw/master/java7/SSLPoke.class
