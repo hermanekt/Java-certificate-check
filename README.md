@@ -27,3 +27,4 @@ HOST:java8 tomashermanek$ **java SSLPoke www.google.cz 443**
 ```
 java -Djavax.net.ssl.trustStore=/etc/pki/truststore SSLPoke www.google.cz 443
 ```
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GEH7YJEBWTFWE&currency_code=USD&source=url)
